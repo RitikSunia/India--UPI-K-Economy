@@ -79,6 +79,17 @@ function domain(arr) {
 }
 
 function main() {
+  if (!fs.existsSync(upiPath)) {
+    const hasOutput = fs.existsSync(path.join(outDir, 'regions.json'))
+    if (hasOutput) {
+      console.log(
+        'Skipping dataset build: india_upi_keconomy_data.json not found; using committed datasets/upi-states/',
+      )
+      return
+    }
+    throw new Error(`Missing source data: ${upiPath}`)
+  }
+
   const upi = JSON.parse(fs.readFileSync(upiPath, 'utf8'))
   const boundaries = JSON.parse(fs.readFileSync(boundariesSrc, 'utf8'))
   const byNeIso = new Map(boundaries.features.map((f) => [f.properties.iso_3166_2, f.properties.name]))
