@@ -3,7 +3,7 @@ import { useFrame, useLoader } from '@react-three/fiber'
 import { TextureLoader } from 'three'
 import * as THREE from 'three'
 import { useRegionStore } from '../store/useRegionStore'
-import { EARTH_TEXTURE_URLS, type EarthTextureSet } from './earthTextures'
+import { resolveEarthTexturePaths, type EarthTextureSet } from './earthTextures'
 
 const vertexShader = /* glsl */ `
 varying vec2 vUv;
@@ -66,8 +66,6 @@ void main() {
 }
 `
 
-const DEFAULT_TEXTURES = EARTH_TEXTURE_URLS
-
 interface EarthProps {
   radius: number
   onBackgroundClick?: () => void
@@ -81,7 +79,7 @@ function RealisticEarth({
 }: EarthProps) {
   const meshRef = useRef<THREE.Mesh>(null)
   const introComplete = useRegionStore((s) => s.introComplete)
-  const paths = { ...DEFAULT_TEXTURES, ...texturePaths }
+  const paths = resolveEarthTexturePaths(texturePaths)
 
   const [dayMap, nightMap, bumpMap] = useLoader(TextureLoader, [
     paths.day,
@@ -125,7 +123,7 @@ function RealisticEarth({
 }
 
 function NightEarth({ radius, onBackgroundClick, texturePaths }: EarthProps) {
-  const paths = { ...DEFAULT_TEXTURES, ...texturePaths }
+  const paths = resolveEarthTexturePaths(texturePaths)
   const nightMap = useLoader(TextureLoader, paths.night)
 
   const uniforms = useMemo(
@@ -153,7 +151,7 @@ function NightEarth({ radius, onBackgroundClick, texturePaths }: EarthProps) {
 }
 
 function PoliticalEarth({ radius, onBackgroundClick, texturePaths }: EarthProps) {
-  const paths = { ...DEFAULT_TEXTURES, ...texturePaths }
+  const paths = resolveEarthTexturePaths(texturePaths)
   const politicalMap = useLoader(TextureLoader, paths.political)
 
   return (

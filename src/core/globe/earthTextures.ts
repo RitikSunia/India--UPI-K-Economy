@@ -14,3 +14,24 @@ export const EARTH_TEXTURE_URLS: EarthTextureSet = {
   bump: `${CDN}/earth-topology.png`,
   political: `${CDN}/earth-blue-marble.jpg`,
 }
+
+/** Resolve config paths for GitHub Pages subpath deploys; keep CDN/https as-is. */
+export function resolveEarthTexturePaths(
+  overrides?: Partial<EarthTextureSet>,
+): EarthTextureSet {
+  const base = import.meta.env.BASE_URL
+  const resolve = (path: string) => {
+    if (/^https?:\/\//i.test(path)) return path
+    const normalized = path.replace(/^\//, '')
+    return `${base}${normalized}`
+  }
+
+  const merged: EarthTextureSet = { ...EARTH_TEXTURE_URLS }
+  if (!overrides) return merged
+
+  for (const key of Object.keys(overrides) as (keyof EarthTextureSet)[]) {
+    const value = overrides[key]
+    if (value) merged[key] = resolve(value)
+  }
+  return merged
+}

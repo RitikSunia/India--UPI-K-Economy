@@ -201,10 +201,10 @@
     "selectColor": "#9bf3c9",
     "accentColor": "#46d6b2",
     "textures": {
-      "day": "/textures/earth-day.jpg",
-      "night": "/textures/earth-night.jpg",
-      "bump": "/textures/earth-bump.jpg",
-      "political": "/textures/earth-political.jpg"
+      "day": "https://cdn.jsdelivr.net/npm/three-globe@2.45.0/example/img/earth-blue-marble.jpg",
+      "night": "https://cdn.jsdelivr.net/npm/three-globe@2.45.0/example/img/earth-night.jpg",
+      "bump": "https://cdn.jsdelivr.net/npm/three-globe@2.45.0/example/img/earth-topology.png",
+      "political": "https://cdn.jsdelivr.net/npm/three-globe@2.45.0/example/img/earth-blue-marble.jpg"
     }
   },
   "meta": {

@@ -78,7 +78,7 @@ export function GlobeScene({ dataset, worldBoundaries }: GlobeSceneProps) {
       gl={{ antialias: true, alpha: true }}
     >
       <color attach="background" args={['#020617']} />
-      <Suspense fallback={null}>
+      <Suspense fallback={<mesh><sphereGeometry args={[1.9, 24, 24]} /><meshBasicMaterial color="#0b1622" wireframe /></mesh>}>
         <GlobeContent dataset={dataset} worldBoundaries={worldBoundaries} />
       </Suspense>
     </Canvas>

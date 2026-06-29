@@ -13,6 +13,8 @@ const boundariesSrc = path.join(root, 'datasets', 'india-states', 'boundaries.ge
 const outDir = path.join(root, 'datasets', 'upi-states')
 const publicOut = path.join(root, 'public', 'datasets', 'upi-states')
 
+const TEXTURE_CDN = 'https://cdn.jsdelivr.net/npm/three-globe@2.45.0/example/img'
+
 const GROUP_MAP = {
   'Himachal Pradesh': 'north',
   Punjab: 'north',
@@ -285,10 +287,10 @@ function main() {
       selectColor: '#9bf3c9',
       accentColor: '#46d6b2',
       textures: {
-        day: '/textures/earth-day.jpg',
-        night: '/textures/earth-night.jpg',
-        bump: '/textures/earth-bump.jpg',
-        political: '/textures/earth-political.jpg',
+        day: `${TEXTURE_CDN}/earth-blue-marble.jpg`,
+        night: `${TEXTURE_CDN}/earth-night.jpg`,
+        bump: `${TEXTURE_CDN}/earth-topology.png`,
+        political: `${TEXTURE_CDN}/earth-blue-marble.jpg`,
       },
     },
     meta: upi.meta,
