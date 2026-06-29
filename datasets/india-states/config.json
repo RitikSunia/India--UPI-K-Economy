@@ -1,0 +1,46 @@
+{
+  "id": "india-states",
+  "title": "India States Explorer",
+  "columns": [
+    { "key": "population", "label": "Population" },
+    { "key": "capital", "label": "Capital" },
+    { "key": "area_km2", "label": "Area (km²)" },
+    { "key": "notes", "label": "Notes" }
+  ],
+  "groups": [
+    { "id": "north", "label": "North" },
+    { "id": "south", "label": "South" },
+    { "id": "east", "label": "East" },
+    { "id": "west", "label": "West" },
+    { "id": "central", "label": "Central" },
+    { "id": "northeast", "label": "North East" }
+  ],
+  "intro": {
+    "from": "space",
+    "targetLng": 78,
+    "targetLat": 22,
+    "duration": 3.5,
+    "startAltitude": 4,
+    "endAltitude": 2.2
+  },
+  "camera": {
+    "flyToDuration": 1.2,
+    "flyToAltitude": 1.65
+  },
+  "globe": {
+    "earthRadius": 1,
+    "stateAltitude": 0.008,
+    "autoRotateSpeed": 0.35
+  },
+  "theme": {
+    "hoverColor": "#4fc3f7",
+    "selectColor": "#ffab40",
+    "accentColor": "#7dd3fc",
+    "textures": {
+      "day": "/textures/earth-day.jpg",
+      "night": "/textures/earth-night.jpg",
+      "bump": "/textures/earth-bump.jpg",
+      "political": "/textures/earth-political.jpg"
+    }
+  }
+}

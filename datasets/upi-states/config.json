@@ -1,0 +1,221 @@
+{
+  "id": "upi-states",
+  "title": "India · UPI & K-Economy",
+  "subtitle": "Digital payments intensity across states & union territories",
+  "columns": [
+    {
+      "key": "k_economy_score",
+      "label": "K-Economy score"
+    },
+    {
+      "key": "k_economy_rank",
+      "label": "K-Economy rank"
+    },
+    {
+      "key": "intensity_rank",
+      "label": "UPI intensity rank"
+    },
+    {
+      "key": "upi_txn_per_capita",
+      "label": "UPI txn / person"
+    },
+    {
+      "key": "upi_value_per_capita",
+      "label": "UPI value / person (₹)"
+    },
+    {
+      "key": "upi_transactions_mn",
+      "label": "UPI transactions (mn)"
+    },
+    {
+      "key": "upi_value_cr",
+      "label": "UPI value (₹ cr)"
+    },
+    {
+      "key": "volume_share",
+      "label": "National tx share"
+    },
+    {
+      "key": "population_2026",
+      "label": "Population (2026 proj.)"
+    },
+    {
+      "key": "wage_per_day_rs",
+      "label": "Rural wage (₹/day)"
+    },
+    {
+      "key": "mgnrega_days_lakh_2324",
+      "label": "MGNREGA (lakh-days)"
+    },
+    {
+      "key": "notes",
+      "label": "Notes"
+    }
+  ],
+  "metrics": [
+    {
+      "key": "k_economy_score",
+      "label": "K-Economy score",
+      "unit": "0–100",
+      "domain": [
+        5.6,
+        97.1
+      ],
+      "ramp": [
+        "#ff5d6c",
+        "#ffc24b",
+        "#2ee6a6"
+      ],
+      "default": true
+    },
+    {
+      "key": "upi_txn_per_capita",
+      "label": "UPI intensity",
+      "unit": "txn/person",
+      "domain": [
+        3.9351,
+        23.8788
+      ],
+      "ramp": [
+        "#1e3a5f",
+        "#46d6b2",
+        "#9bf3c9"
+      ]
+    },
+    {
+      "key": "upi_value_per_capita",
+      "label": "Value intensity",
+      "unit": "₹/person",
+      "domain": [
+        5029.8266,
+        37657.9956
+      ],
+      "ramp": [
+        "#1a2f4a",
+        "#3d8b7a",
+        "#9bf3c9"
+      ]
+    },
+    {
+      "key": "upi_transactions_mn",
+      "label": "UPI volume",
+      "unit": "mn tx",
+      "domain": [
+        0.72,
+        2266.63
+      ],
+      "ramp": [
+        "#123043",
+        "#46d6b2",
+        "#e8f1f5"
+      ]
+    },
+    {
+      "key": "volume_share",
+      "label": "National share",
+      "unit": "% of India",
+      "domain": [
+        0.005529295667566455,
+        17.406760331911325
+      ],
+      "ramp": [
+        "#2a3f55",
+        "#7c93a3",
+        "#ffc24b"
+      ]
+    },
+    {
+      "key": "wage_per_day_rs",
+      "label": "Rural wage",
+      "unit": "₹/day",
+      "domain": [
+        204,
+        331
+      ],
+      "ramp": [
+        "#3d2c4d",
+        "#7c93a3",
+        "#e8f1f5"
+      ]
+    },
+    {
+      "key": "mgnrega_days_lakh_2324",
+      "label": "MGNREGA demand",
+      "unit": "lakh-days",
+      "domain": [
+        0.04,
+        4087.02
+      ],
+      "ramp": [
+        "#2ee6a6",
+        "#ffc24b",
+        "#ff5d6c"
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "id": "north",
+      "label": "North"
+    },
+    {
+      "id": "south",
+      "label": "South"
+    },
+    {
+      "id": "east",
+      "label": "East"
+    },
+    {
+      "id": "west",
+      "label": "West"
+    },
+    {
+      "id": "central",
+      "label": "Central"
+    },
+    {
+      "id": "northeast",
+      "label": "North East"
+    }
+  ],
+  "intro": {
+    "from": "space",
+    "targetLng": 78,
+    "targetLat": 22,
+    "duration": 3.5,
+    "startAltitude": 4,
+    "endAltitude": 2.2
+  },
+  "camera": {
+    "flyToDuration": 1.2,
+    "flyToAltitude": 1.65
+  },
+  "globe": {
+    "earthRadius": 1,
+    "stateAltitude": 0.008,
+    "autoRotateSpeed": 0.35
+  },
+  "theme": {
+    "hoverColor": "#46d6b2",
+    "selectColor": "#9bf3c9",
+    "accentColor": "#46d6b2",
+    "textures": {
+      "day": "/textures/earth-day.jpg",
+      "night": "/textures/earth-night.jpg",
+      "bump": "/textures/earth-bump.jpg",
+      "political": "/textures/earth-political.jpg"
+    }
+  },
+  "meta": {
+    "title": "India UPI & K-Economy State Dataset",
+    "upi_reference_month": "2026-05",
+    "cpi_sensex_coverage": "2020-04 to 2025-07",
+    "gdp_coverage": "2015 to 2024",
+    "mgnrega_latest_year": "2023-24",
+    "wages_reference_year": "FY 2022-23",
+    "population_reference": "2026 projection",
+    "state_count": 36,
+    "k_economy_score_formula": "40% UPI per capita rank + 30% wage rank + 30% inverse MGNREGA rank (0-100)"
+  }
+}

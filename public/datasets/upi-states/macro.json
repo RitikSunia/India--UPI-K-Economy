@@ -1,0 +1,558 @@
+{
+  "monthly": [
+    {
+      "date": "2020-04-01",
+      "cpi_rural_general": null,
+      "cpi_urban_general": null,
+      "cpi_combined_general": null,
+      "rural_urban_gap": null,
+      "sensex_monthly_avg": 30966.01
+    },
+    {
+      "date": "2020-05-01",
+      "cpi_rural_general": null,
+      "cpi_urban_general": null,
+      "cpi_combined_general": null,
+      "rural_urban_gap": null,
+      "sensex_monthly_avg": 31294.25
+    },
+    {
+      "date": "2020-06-01",
+      "cpi_rural_general": null,
+      "cpi_urban_general": null,
+      "cpi_combined_general": null,
+      "rural_urban_gap": null,
+      "sensex_monthly_avg": 34262.88
+    },
+    {
+      "date": "2020-07-01",
+      "cpi_rural_general": null,
+      "cpi_urban_general": null,
+      "cpi_combined_general": null,
+      "rural_urban_gap": null,
+      "sensex_monthly_avg": 37030.64
+    },
+    {
+      "date": "2020-08-01",
+      "cpi_rural_general": null,
+      "cpi_urban_general": null,
+      "cpi_combined_general": null,
+      "rural_urban_gap": null,
+      "sensex_monthly_avg": 38346.59
+    },
+    {
+      "date": "2020-09-01",
+      "cpi_rural_general": null,
+      "cpi_urban_general": null,
+      "cpi_combined_general": null,
+      "rural_urban_gap": null,
+      "sensex_monthly_avg": 38378.98
+    },
+    {
+      "date": "2020-10-01",
+      "cpi_rural_general": null,
+      "cpi_urban_general": null,
+      "cpi_combined_general": null,
+      "rural_urban_gap": null,
+      "sensex_monthly_avg": 40115.39
+    },
+    {
+      "date": "2020-11-01",
+      "cpi_rural_general": null,
+      "cpi_urban_general": null,
+      "cpi_combined_general": null,
+      "rural_urban_gap": null,
+      "sensex_monthly_avg": 43011.38
+    },
+    {
+      "date": "2020-12-01",
+      "cpi_rural_general": null,
+      "cpi_urban_general": null,
+      "cpi_combined_general": null,
+      "rural_urban_gap": null,
+      "sensex_monthly_avg": 46211.84
+    },
+    {
+      "date": "2021-01-01",
+      "cpi_rural_general": null,
+      "cpi_urban_general": null,
+      "cpi_combined_general": null,
+      "rural_urban_gap": null,
+      "sensex_monthly_avg": 48580.33
+    },
+    {
+      "date": "2021-02-01",
+      "cpi_rural_general": null,
+      "cpi_urban_general": null,
+      "cpi_combined_general": null,
+      "rural_urban_gap": null,
+      "sensex_monthly_avg": 50782.82
+    },
+    {
+      "date": "2021-03-01",
+      "cpi_rural_general": null,
+      "cpi_urban_general": null,
+      "cpi_combined_general": null,
+      "rural_urban_gap": null,
+      "sensex_monthly_avg": 50100.65
+    },
+    {
+      "date": "2021-04-01",
+      "cpi_rural_general": 157.6,
+      "cpi_urban_general": 158,
+      "cpi_combined_general": 157.8,
+      "rural_urban_gap": -0.4,
+      "sensex_monthly_avg": 48877.9
+    },
+    {
+      "date": "2021-05-01",
+      "cpi_rural_general": 161.1,
+      "cpi_urban_general": 159.5,
+      "cpi_combined_general": 160.4,
+      "rural_urban_gap": 1.6,
+      "sensex_monthly_avg": 49822.9
+    },
+    {
+      "date": "2021-06-01",
+      "cpi_rural_general": 162.1,
+      "cpi_urban_general": 160.4,
+      "cpi_combined_general": 161.3,
+      "rural_urban_gap": 1.7,
+      "sensex_monthly_avg": 52399.7
+    },
+    {
+      "date": "2021-07-01",
+      "cpi_rural_general": 163.2,
+      "cpi_urban_general": 161.8,
+      "cpi_combined_general": 162.5,
+      "rural_urban_gap": 1.4,
+      "sensex_monthly_avg": 52694.25
+    },
+    {
+      "date": "2021-08-01",
+      "cpi_rural_general": 163.6,
+      "cpi_urban_general": 162.2,
+      "cpi_combined_general": 162.9,
+      "rural_urban_gap": 1.4,
+      "sensex_monthly_avg": 55237.51
+    },
+    {
+      "date": "2021-09-01",
+      "cpi_rural_general": 164,
+      "cpi_urban_general": 162.3,
+      "cpi_combined_general": 163.2,
+      "rural_urban_gap": 1.7,
+      "sensex_monthly_avg": 58780.95
+    },
+    {
+      "date": "2021-10-01",
+      "cpi_rural_general": 166.3,
+      "cpi_urban_general": 164.6,
+      "cpi_combined_general": 165.5,
+      "rural_urban_gap": 1.7,
+      "sensex_monthly_avg": 60421.92
+    },
+    {
+      "date": "2021-11-01",
+      "cpi_rural_general": 167.6,
+      "cpi_urban_general": 165.6,
+      "cpi_combined_general": 166.7,
+      "rural_urban_gap": 2,
+      "sensex_monthly_avg": 59416.48
+    },
+    {
+      "date": "2021-12-01",
+      "cpi_rural_general": 167,
+      "cpi_urban_general": 165.2,
+      "cpi_combined_general": 166.2,
+      "rural_urban_gap": 1.8,
+      "sensex_monthly_avg": 57663.12
+    },
+    {
+      "date": "2022-01-01",
+      "cpi_rural_general": 166.4,
+      "cpi_urban_general": 165,
+      "cpi_combined_general": 165.7,
+      "rural_urban_gap": 1.4,
+      "sensex_monthly_avg": 59586.75
+    },
+    {
+      "date": "2022-02-01",
+      "cpi_rural_general": 166.7,
+      "cpi_urban_general": 165.5,
+      "cpi_combined_general": 166.1,
+      "rural_urban_gap": 1.2,
+      "sensex_monthly_avg": 57697.5
+    },
+    {
+      "date": "2022-03-01",
+      "cpi_rural_general": 168.7,
+      "cpi_urban_general": 166.5,
+      "cpi_combined_general": 167.7,
+      "rural_urban_gap": 2.2,
+      "sensex_monthly_avg": 56404.37
+    },
+    {
+      "date": "2022-04-01",
+      "cpi_rural_general": 170.8,
+      "cpi_urban_general": 169.2,
+      "cpi_combined_general": 170.1,
+      "rural_urban_gap": 1.6,
+      "sensex_monthly_avg": 58165.86
+    },
+    {
+      "date": "2022-05-01",
+      "cpi_rural_general": 172.5,
+      "cpi_urban_general": 170.8,
+      "cpi_combined_general": 171.7,
+      "rural_urban_gap": 1.7,
+      "sensex_monthly_avg": 54436.66
+    },
+    {
+      "date": "2022-06-01",
+      "cpi_rural_general": 173.6,
+      "cpi_urban_general": 171.4,
+      "cpi_combined_general": 172.6,
+      "rural_urban_gap": 2.2,
+      "sensex_monthly_avg": 53478.91
+    },
+    {
+      "date": "2022-07-01",
+      "cpi_rural_general": 174.3,
+      "cpi_urban_general": 172.3,
+      "cpi_combined_general": 173.4,
+      "rural_urban_gap": 2,
+      "sensex_monthly_avg": 54684.8
+    },
+    {
+      "date": "2022-08-01",
+      "cpi_rural_general": 175.3,
+      "cpi_urban_general": 173.1,
+      "cpi_combined_general": 174.3,
+      "rural_urban_gap": 2.2,
+      "sensex_monthly_avg": 58990.51
+    },
+    {
+      "date": "2022-09-01",
+      "cpi_rural_general": 176.4,
+      "cpi_urban_general": 174.1,
+      "cpi_combined_general": 175.3,
+      "rural_urban_gap": 2.3,
+      "sensex_monthly_avg": 58843.43
+    },
+    {
+      "date": "2022-10-01",
+      "cpi_rural_general": 177.9,
+      "cpi_urban_general": 175.3,
+      "cpi_combined_general": 176.7,
+      "rural_urban_gap": 2.6,
+      "sensex_monthly_avg": 58632.37
+    },
+    {
+      "date": "2022-11-01",
+      "cpi_rural_general": 177.8,
+      "cpi_urban_general": 175,
+      "cpi_combined_general": 176.5,
+      "rural_urban_gap": 2.8,
+      "sensex_monthly_avg": 61631.46
+    },
+    {
+      "date": "2022-12-01",
+      "cpi_rural_general": 177.1,
+      "cpi_urban_general": 174.1,
+      "cpi_combined_general": 175.7,
+      "rural_urban_gap": 3,
+      "sensex_monthly_avg": 61767.33
+    },
+    {
+      "date": "2023-01-01",
+      "cpi_rural_general": 177.8,
+      "cpi_urban_general": 174.9,
+      "cpi_combined_general": 176.5,
+      "rural_urban_gap": 2.9,
+      "sensex_monthly_avg": 60397.23
+    },
+    {
+      "date": "2023-02-01",
+      "cpi_rural_general": 177.9,
+      "cpi_urban_general": 175.6,
+      "cpi_combined_general": 176.8,
+      "rural_urban_gap": 2.3,
+      "sensex_monthly_avg": 60345.93
+    },
+    {
+      "date": "2023-03-01",
+      "cpi_rural_general": 178,
+      "cpi_urban_general": 176.3,
+      "cpi_combined_general": 177.2,
+      "rural_urban_gap": 1.7,
+      "sensex_monthly_avg": 58502.47
+    },
+    {
+      "date": "2023-04-01",
+      "cpi_rural_general": 178.8,
+      "cpi_urban_general": 177.4,
+      "cpi_combined_general": 178.1,
+      "rural_urban_gap": 1.4,
+      "sensex_monthly_avg": 60011.7
+    },
+    {
+      "date": "2023-05-01",
+      "cpi_rural_general": 179.8,
+      "cpi_urban_general": 178.2,
+      "cpi_combined_general": 179.1,
+      "rural_urban_gap": 1.6,
+      "sensex_monthly_avg": 61921.88
+    },
+    {
+      "date": "2023-06-01",
+      "cpi_rural_general": 181.9,
+      "cpi_urban_general": 179.9,
+      "cpi_combined_general": 181,
+      "rural_urban_gap": 2,
+      "sensex_monthly_avg": 63134.73
+    },
+    {
+      "date": "2023-07-01",
+      "cpi_rural_general": 187.6,
+      "cpi_urban_general": 184.7,
+      "cpi_combined_general": 186.3,
+      "rural_urban_gap": 2.9,
+      "sensex_monthly_avg": 66110.14
+    },
+    {
+      "date": "2023-08-01",
+      "cpi_rural_general": 187.6,
+      "cpi_urban_general": 184.5,
+      "cpi_combined_general": 186.2,
+      "rural_urban_gap": 3.1,
+      "sensex_monthly_avg": 65411.41
+    },
+    {
+      "date": "2023-09-01",
+      "cpi_rural_general": 185.8,
+      "cpi_urban_general": 182.2,
+      "cpi_combined_general": 184.1,
+      "rural_urban_gap": 3.6,
+      "sensex_monthly_avg": 66438.75
+    },
+    {
+      "date": "2023-10-01",
+      "cpi_rural_general": 187,
+      "cpi_urban_general": 183.4,
+      "cpi_combined_general": 185.3,
+      "rural_urban_gap": 3.6,
+      "sensex_monthly_avg": 65307.98
+    },
+    {
+      "date": "2023-11-01",
+      "cpi_rural_general": 188.2,
+      "cpi_urban_general": 184.2,
+      "cpi_combined_general": 186.3,
+      "rural_urban_gap": 4,
+      "sensex_monthly_avg": 65426.55
+    },
+    {
+      "date": "2023-12-01",
+      "cpi_rural_general": 187.6,
+      "cpi_urban_general": 183.6,
+      "cpi_combined_general": 185.7,
+      "rural_urban_gap": 4,
+      "sensex_monthly_avg": 70448.11
+    },
+    {
+      "date": "2024-01-01",
+      "cpi_rural_general": 187.3,
+      "cpi_urban_general": 183.5,
+      "cpi_combined_general": 185.5,
+      "rural_urban_gap": 3.8,
+      "sensex_monthly_avg": 71695.45
+    },
+    {
+      "date": "2024-02-01",
+      "cpi_rural_general": 187.4,
+      "cpi_urban_general": 184,
+      "cpi_combined_general": 185.8,
+      "rural_urban_gap": 3.4,
+      "sensex_monthly_avg": 72244.39
+    },
+    {
+      "date": "2024-03-01",
+      "cpi_rural_general": 187.8,
+      "cpi_urban_general": 183.6,
+      "cpi_combined_general": 185.8,
+      "rural_urban_gap": 4.2,
+      "sensex_monthly_avg": 73180.67
+    },
+    {
+      "date": "2024-04-01",
+      "cpi_rural_general": 188.5,
+      "cpi_urban_general": 184.7,
+      "cpi_combined_general": 186.7,
+      "rural_urban_gap": 3.8,
+      "sensex_monthly_avg": 73968.24
+    },
+    {
+      "date": "2024-05-01",
+      "cpi_rural_general": 189.4,
+      "cpi_urban_general": 185.7,
+      "cpi_combined_general": 187.7,
+      "rural_urban_gap": 3.7,
+      "sensex_monthly_avg": 73945.44
+    },
+    {
+      "date": "2024-06-01",
+      "cpi_rural_general": 192.2,
+      "cpi_urban_general": 187.8,
+      "cpi_combined_general": 190.2,
+      "rural_urban_gap": 4.4,
+      "sensex_monthly_avg": 76827.75
+    },
+    {
+      "date": "2024-07-01",
+      "cpi_rural_general": 195.3,
+      "cpi_urban_general": 190.3,
+      "cpi_combined_general": 193,
+      "rural_urban_gap": 5,
+      "sensex_monthly_avg": 80451.76
+    },
+    {
+      "date": "2024-08-01",
+      "cpi_rural_general": 195.4,
+      "cpi_urban_general": 190.3,
+      "cpi_combined_general": 193,
+      "rural_urban_gap": 5.1,
+      "sensex_monthly_avg": 80494.18
+    },
+    {
+      "date": "2024-09-01",
+      "cpi_rural_general": 196.7,
+      "cpi_urban_general": 191.4,
+      "cpi_combined_general": 194.2,
+      "rural_urban_gap": 5.3,
+      "sensex_monthly_avg": 83294.13
+    },
+    {
+      "date": "2024-10-01",
+      "cpi_rural_general": 199.5,
+      "cpi_urban_general": 193.7,
+      "cpi_combined_general": 196.8,
+      "rural_urban_gap": 5.8,
+      "sensex_monthly_avg": 81079.51
+    },
+    {
+      "date": "2024-11-01",
+      "cpi_rural_general": 199.4,
+      "cpi_urban_general": 193.2,
+      "cpi_combined_general": 196.5,
+      "rural_urban_gap": 6.2,
+      "sensex_monthly_avg": 79011.4
+    },
+    {
+      "date": "2024-12-01",
+      "cpi_rural_general": 198.4,
+      "cpi_urban_general": 192,
+      "cpi_combined_general": 195.4,
+      "rural_urban_gap": 6.4,
+      "sensex_monthly_avg": 80187.59
+    },
+    {
+      "date": "2025-01-01",
+      "cpi_rural_general": 195.9,
+      "cpi_urban_general": 190.6,
+      "cpi_combined_general": 193.4,
+      "rural_urban_gap": 5.3,
+      "sensex_monthly_avg": 77143.06
+    },
+    {
+      "date": "2025-02-01",
+      "cpi_rural_general": 194.5,
+      "cpi_urban_general": 190.1,
+      "cpi_combined_general": 192.5,
+      "rural_urban_gap": 4.4,
+      "sensex_monthly_avg": 76256.92
+    },
+    {
+      "date": "2025-03-01",
+      "cpi_rural_general": 193.9,
+      "cpi_urban_general": 189.9,
+      "cpi_combined_general": 192,
+      "rural_urban_gap": 4,
+      "sensex_monthly_avg": 75317.9
+    },
+    {
+      "date": "2025-04-01",
+      "cpi_rural_general": 194,
+      "cpi_urban_general": 190.9,
+      "cpi_combined_general": 192.6,
+      "rural_urban_gap": 3.1,
+      "sensex_monthly_avg": 77467.75
+    },
+    {
+      "date": "2025-05-01",
+      "cpi_rural_general": 194.3,
+      "cpi_urban_general": 191.5,
+      "cpi_combined_general": 193,
+      "rural_urban_gap": 2.8,
+      "sensex_monthly_avg": 81327.9
+    },
+    {
+      "date": "2025-06-01",
+      "cpi_rural_general": 195.5,
+      "cpi_urban_general": 192.6,
+      "cpi_combined_general": 194.2,
+      "rural_urban_gap": 2.9,
+      "sensex_monthly_avg": 82077.43
+    },
+    {
+      "date": "2025-07-01",
+      "cpi_rural_general": 197.6,
+      "cpi_urban_general": 194.2,
+      "cpi_combined_general": 196,
+      "rural_urban_gap": 3.4,
+      "sensex_monthly_avg": 82491.06
+    }
+  ],
+  "gdp_annual": [
+    {
+      "year": 2015,
+      "gdp_growth_pct": 7.996
+    },
+    {
+      "year": 2016,
+      "gdp_growth_pct": 8.256
+    },
+    {
+      "year": 2017,
+      "gdp_growth_pct": 6.795
+    },
+    {
+      "year": 2018,
+      "gdp_growth_pct": 6.454
+    },
+    {
+      "year": 2019,
+      "gdp_growth_pct": 3.871
+    },
+    {
+      "year": 2020,
+      "gdp_growth_pct": -5.778
+    },
+    {
+      "year": 2021,
+      "gdp_growth_pct": 9.69
+    },
+    {
+      "year": 2022,
+      "gdp_growth_pct": 7.609
+    },
+    {
+      "year": 2023,
+      "gdp_growth_pct": 9.191
+    },
+    {
+      "year": 2024,
+      "gdp_growth_pct": 6.495
+    }
+  ]
+}

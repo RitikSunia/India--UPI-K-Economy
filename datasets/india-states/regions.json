@@ -1,0 +1,362 @@
+{
+  "IN-SK": {
+    "name": "Sikkim",
+    "group": "east",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  },
+  "IN-TG": {
+    "name": "Telangana",
+    "group": "south",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  },
+  "IN-LA": {
+    "name": "Ladakh",
+    "group": "north",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  },
+  "IN-CH": {
+    "name": "Chandigarh",
+    "group": "north",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  },
+  "IN-DL": {
+    "name": "Delhi",
+    "group": "north",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  },
+  "IN-HP": {
+    "name": "Himachal Pradesh",
+    "group": "north",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  },
+  "IN-HR": {
+    "name": "Haryana",
+    "group": "north",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  },
+  "IN-JK": {
+    "name": "Jammu and Kashmir",
+    "group": "north",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  },
+  "IN-AP": {
+    "name": "Andhra Pradesh",
+    "group": "south",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  },
+  "IN-KL": {
+    "name": "Kerala",
+    "group": "south",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  },
+  "IN-LD": {
+    "name": "Lakshadweep",
+    "group": "south",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  },
+  "IN-OR": {
+    "name": "Odisha",
+    "group": "east",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  },
+  "IN-DH": {
+    "name": "Dadra and Nagar Haveli and Daman and Diu",
+    "group": "west",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  },
+  "IN-KA": {
+    "name": "Karnataka",
+    "group": "south",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  },
+  "IN-GA": {
+    "name": "Goa",
+    "group": "west",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  },
+  "IN-AN": {
+    "name": "Andaman and Nicobar",
+    "group": "northeast",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  },
+  "IN-AS": {
+    "name": "Assam",
+    "group": "northeast",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  },
+  "IN-MN": {
+    "name": "Manipur",
+    "group": "northeast",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  },
+  "IN-NL": {
+    "name": "Nagaland",
+    "group": "northeast",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  },
+  "IN-ML": {
+    "name": "Meghalaya",
+    "group": "northeast",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  },
+  "IN-PB": {
+    "name": "Punjab",
+    "group": "north",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  },
+  "IN-RJ": {
+    "name": "Rajasthan",
+    "group": "north",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  },
+  "IN-UP": {
+    "name": "Uttar Pradesh",
+    "group": "north",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  },
+  "IN-UT": {
+    "name": "Uttarakhand",
+    "group": "north",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  },
+  "IN-JH": {
+    "name": "Jharkhand",
+    "group": "east",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  },
+  "IN-WB": {
+    "name": "West Bengal",
+    "group": "east",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  },
+  "IN-BR": {
+    "name": "Bihar",
+    "group": "east",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  },
+  "IN-CT": {
+    "name": "Chhattisgarh",
+    "group": "central",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  },
+  "IN-MP": {
+    "name": "Madhya Pradesh",
+    "group": "central",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  },
+  "IN-PY": {
+    "name": "Puducherry",
+    "group": "south",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  },
+  "IN-TN": {
+    "name": "Tamil Nadu",
+    "group": "south",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  },
+  "IN-GJ": {
+    "name": "Gujarat",
+    "group": "west",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  },
+  "IN-AR": {
+    "name": "Arunachal Pradesh",
+    "group": "northeast",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  },
+  "IN-MZ": {
+    "name": "Mizoram",
+    "group": "northeast",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  },
+  "IN-TR": {
+    "name": "Tripura",
+    "group": "northeast",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  },
+  "IN-MH": {
+    "name": "Maharashtra",
+    "group": "west",
+    "fields": {
+      "population": "—",
+      "capital": "—",
+      "area_km2": "—",
+      "notes": "Placeholder — replace with real data"
+    }
+  }
+}
