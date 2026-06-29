@@ -1,3 +1,7 @@
+# Add this file on GitHub.com (browser) after the initial push succeeds.
+# Path: .github/workflows/deploy-pages.yml
+# GitHub web UI does not require PAT workflow scope.
+
 name: Deploy to GitHub Pages
 
 on:
